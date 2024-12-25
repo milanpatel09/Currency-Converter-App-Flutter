@@ -1,0 +1,8 @@
+*.cmake linguist-vendored
+*.cpp linguist-vendored
+*.h linguist-vendored
+CMakeLists.txt linguist-vendored
+ios/** linguist-vendored
+android/** linguist-vendored
+
+*.dart linguist-detectable

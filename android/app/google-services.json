@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "710986973480",
+    "project_id": "signin-8d29c",
+    "storage_bucket": "signin-8d29c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710986973480:android:dd8298daa6392e33eb501d",
+        "android_client_info": {
+          "package_name": "com.milan091.appelixir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710986973480-p683e5rpi3hbfnmf4t2en93c989fk1ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1yCfXSJmTDkrz2uXpF-CdVq3kO_ofVgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710986973480-4smo2nr8jagre2ibhpssq9601doli27n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
