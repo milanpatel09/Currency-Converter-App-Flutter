@@ -1,16 +1,20 @@
-# elixir
+# Elixir: Currency Converter App 🌍💱
 
-A new Flutter project.
+A modern and user-friendly **Currency Converter App** built with **Flutter** and **Dart**, designed to make currency conversion simple, fast, and reliable. This app leverages **Provider** for state management and uses **Firebase** for authentication and database functionalities.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features ✨
 
-A few resources to get you started if this is your first Flutter project:
+- 🔒 **Secure Authentication**: Users can sign up, log in, and manage their accounts (Firebase Authentication).
+- 📊 **Currency Conversion**: Convert currencies in real-time using the latest exchange rates.
+- 📚 **History Tracking**: View past conversion histories (stored in Firebase).
+- 🔔 **Error Handling**: Friendly error messages for smoother user experience.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack 🚀
+
+- **Frontend**: Flutter, Dart
+- **State Management**: Provider
+- **Backend**: Firebase Authentication, Firestore Database
