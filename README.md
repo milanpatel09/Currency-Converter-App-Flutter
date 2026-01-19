@@ -21,25 +21,47 @@ A modern and user-friendly **Currency Converter App** built with **Flutter** and
 
 ---
 ## Screens Info 🖥️
+
 1.	Splash Screen:
-** First screen that shows App Name with Animations for few seconds
+
+- First screen that shows App Name with Animations for few seconds
+
 2.	Login Screen:
-** Text input fields for email and password
-** Login Button
-** Login with google
-** Signup Button
-** Forgot Password
+
+- Text input fields for email and password
+
+- Login Button
+  
+- Login with google
+  
+- Signup Button
+
+- Forgot Password
+
 3.	Home Screen/Currency Converter Screen:
-** Text input fields for the amount to convert and the currencies to convert from and to
-** Drop down menu to select currencies
-** Button to initiate conversion 
-** Display area to show the result of conversion
-4.	History Screen:
-** Shows the history of previous conversions
-** Clear history
+
+- Text input fields for the amount to convert and the currencies to convert from and to
+  
+- Drop down menu to select currencies
+  
+- Button to initiate conversion
+  
+- Display area to show the result of conversion
+  
+4. History Screen:
+
+- Shows the history of previous conversions
+  
+- Clear history
+  
 5.	Profile Screen:
-** Show users profile info
-** Logout Button
+
+- Show users profile info
+  
+- Logout Button
+  
 6.	Settings Screen:
-** Change app theme
-** Reset settings
+   
+- Change app theme
+  
+-  Reset settings
